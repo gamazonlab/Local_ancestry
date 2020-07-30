@@ -3,4 +3,4 @@
 
 This repository contains code from:
 
-Zhong Y, Perera M, Gamazon ER. On using local ancestry to characterize the genetic architecture of human phenotypes: Genetic regulation of gene expression in a multiethnic or admixed populations as a model. In revision.
+Zhong Y, Perera M, Gamazon ER. On Using Local Ancestry to Characterize the Genetic Architecture of Human Traits: Genetic Regulation of Gene Expression in Multiethnic or Admixed Populations. <i>American Journal of Human Genetics</i>. https://www.sciencedirect.com/science/article/pii/S0002929719301557?via%3Dihub. 
